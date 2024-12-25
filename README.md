@@ -7,9 +7,6 @@
 ## Links
 
   - [Matchaism Portal](https://portal.matchaism.net)
-    - About me
-    - Portfolio
-    - Contest result
 
 ## Gist
 
