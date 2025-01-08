@@ -14,8 +14,10 @@
 ### Detail
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matchaism&theme=gruvbox)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matchaism&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matchaism&theme=gruvbox)
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matchaism&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matchaism&theme=gruvbox&utcOffset=9)
 
